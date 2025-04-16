@@ -1,4 +1,4 @@
-# CERTIFICADOS
+# CERTIFICADOS - Aula de Quarta-Feira
 Certificados para a aula de Programação Mobile.
 
 DESENVOLVENDO APLICAÇÕES MOBILE COM ANDROID STUDIO
